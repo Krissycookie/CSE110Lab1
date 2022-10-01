@@ -20,7 +20,7 @@ git push
 
 [Github Pages](https://pages.github.com/) is very cool :).
 
-[Go back to the Cool Heading](#cool-heading)
+[Go back to the Cool Heading](#kristy's-user-page)
 
 [Cool Cat Photo](/CatPhoto1.jpg)
 
