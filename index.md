@@ -1,12 +1,15 @@
 # Kristy's User Page
 
-*I haven't made any projects, but I'm planning on doing more research and starting soon*
+*I haven't made any projects, but I'm planning on doing more research and starting soon!*
+
+![Profile Picture](https://drive.google.com/file/d/1ngBoNEVbiJI2GUKF7ztRor6vMJGp_LOs/view)
 
 **I'm interested in a lot of things, but cybersecurity is at the top of the list.**
 
-**I often read or play video games in my free time! I also _love_ trying new food!**
+**I often read or play video games in my free time! I also _love_ trying new food.**
 
-~~Oops I made a mistake~~
+[I also love cats!](/CatPhoto1.jpg)
+
 
 >I love learning new things and taking on new challenges!
 
@@ -18,24 +21,21 @@ git commit
 git push
 ```
 
-[Github Pages](https://pages.github.com/) is very cool :).
+This is my [Github](https://github.com/Krissycookie).
 
-[Go back to the Cool Heading](#kristy's-user-page)
+## Coding Experience
 
-[Cool Cat Photo](/CatPhoto1.jpg)
+Coding Languages I have experience in:
 
-## Here is another cool cat photo :)
+- Python
+- Java
+- C++
 
-![This is an image](https://styles.redditmedia.com/t5_2r5i1/styles/communityIcon_x4lqmqzu1hi81.jpg)
+Classes I've taken:
 
-List of Groceries:
-
-- Apples
-- Bananas
-- Oranges
-
-Task List:
-
-- [x] Finish CSE110 Lab1
-- [ ] Finish other homework
-- [ ] Go grocery shopping
+- [x] CSE 8A and 8B
+- [x] CSE 20
+- [x] CSE 21
+- [x] CSE 101
+- [x] CSE 105
+- [ ] CSE 110
