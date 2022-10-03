@@ -2,7 +2,7 @@
 
 *I haven't made any projects, but I'm planning on doing more research and starting soon!*
 
-![Profile Picture](https://drive.google.com/file/d/1ngBoNEVbiJI2GUKF7ztRor6vMJGp_LOs/view)
+![Profile Picture](https://drive.google.com/file/d/1ngBoNEVbiJI2GUKF7ztRor6vMJGp_LOs/view?usp=sharing)
 
 **I'm interested in a lot of things, but cybersecurity is at the top of the list.**
 
