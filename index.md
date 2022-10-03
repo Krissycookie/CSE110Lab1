@@ -2,7 +2,7 @@
 
 *I haven't made any projects, but I'm planning on doing more research and starting soon!*
 
-![Profile Picture](https://drive.google.com/file/d/1ngBoNEVbiJI2GUKF7ztRor6vMJGp_LOs/view?usp=sharing)
+![Cat Photo](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-cat-photos-1593441022.jpg?crop=0.669xw:1.00xh;0.166xw,0&resize=640:*)
 
 **I'm interested in a lot of things, but cybersecurity is at the top of the list.**
 
